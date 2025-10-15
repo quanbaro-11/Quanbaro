@@ -1,0 +1,2 @@
+# Quanbaro
+Trùm config
